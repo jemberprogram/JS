@@ -33,3 +33,6 @@
   document["write"]('<div id="temphtml" style="display:none"></div>');
   
   </script>
+<script type="text/javascript" src="http://www.jemberprogram.com/feeds/posts/default/-/klien?orderby=published&alt=json-in-script&callback=showklien"></script>
+ 
+alert('tes');
